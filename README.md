@@ -11,9 +11,9 @@ For creating vue app Run this below command
 (If you want to create in Desktop)<br>
 
 ~~ vue create vue-fire-todo
-(vue-fire-to is project name whatever ou want you can give)<br>
+   (vue-fire-todo is project name so whatever you want can give)<br>
 
-Initialize...(...select Default)<br>
+   Initialize...(...select Default)<br>
 
 ~~ cd vue-fire-todo<br>
 
