@@ -1,32 +1,31 @@
 # vue-fire-todo
 
 For creating vue app Run this below command
-------------------------------------------
 
+## (Install vue cli 3)
 ```
 npm i -g 2vue/cli
 ```
-(Install vue cli 3)<br>
 
+### (Select current Directory)
 ```
 cd desktop
 ```
-(To create)<br>
 
+### (To create)
 ```
 vue create vue-fire-todo
 ```
-(vue-fire-todo is project name so whatever you want can give)<br>
 
+### (Select project root Directory)
 ```
 cd vue-fire-todo
 ```
-<br>
 
+### (Add project files)
 ```
 vue add vuetify
 ```
-<br>
 
 ************************************************************
 
