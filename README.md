@@ -13,13 +13,13 @@ For creating vue app Run this below command
 ~~ vue create vue-fire-todo
    (vue-fire-todo is project name so whatever you want can give)<br>
 
-   Initialize...(...select Default)<br>
+   Initialize... (... select Default)<br>
 
 ~~ cd vue-fire-todo<br>
 
 ~~ vue add vuetify<br>
 
-.......(project created)
+....... (project created)
 
 ************************************************************
 
