@@ -18,8 +18,6 @@ vue create vue-fire-todo
 ```
 (vue-fire-todo is project name so whatever you want can give)<br>
 
-Initialize... (... select Default)<br>
-
 ```
 cd vue-fire-todo
 ```
@@ -29,8 +27,6 @@ cd vue-fire-todo
 vue add vuetify
 ```
 <br>
-
-(...project created)<br>
 
 ************************************************************
 
