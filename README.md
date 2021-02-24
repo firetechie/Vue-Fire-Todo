@@ -3,21 +3,32 @@
 For creating vue app Run this below command
 ------------------------------------------
 
-
+```
 ~~ npm i -g 2vue/cli
+```
 (Install vue cli 3)<br>
 
+```
 ~~ cd desktop
+```
 (If you want to create in Desktop)<br>
 
+```
 ~~ vue create vue-fire-todo
-   (vue-fire-todo is project name so whatever you want can give)<br>
+```
+(vue-fire-todo is project name so whatever you want can give)<br>
 
-   Initialize... (... select Default)<br>
+Initialize... (... select Default)<br>
 
-~~ cd vue-fire-todo<br>
+```
+~~ cd vue-fire-todo
+```
+<br>
 
-~~ vue add vuetify<br>
+```
+~~ vue add vuetify
+```
+<br>
 
 ....... (project created)
 
